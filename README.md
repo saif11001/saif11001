@@ -1,5 +1,7 @@
 # 💫 About Me:
-## 👋 Hi, I'm Saif Eldeen Sobhi<br><br>Backend Developer specializing in Node.js, building secure APIs and scalable server-side applications. Passionate about clean code, problem-solving, and continuous learning.<br><br>### 🔧 Tech Stack<br><br>- **Backend:** Node.js, Express.js, RESTful APIs, Socket.io.<br>- **Databases:**  MongoDB (Mongoose ODM), SQL (Sequelize ORM).<br>- **Frontend Basics:** HTML, CSS, Bootstrap, JavaScript.<br>- **Tools:** Git, Postman.<br><br>### 📫 Let's Connect<br><br>- LinkedIn: [Saif Eldeen Sobhy](https://linkedin.com/in/saif-eldeen-sobhy)<br>- Email: saifeldeen409@gmail.com
+## 👋 Hi, I'm Saif Eldeen Sobhi<br><br>Backend Developer specializing in Node.js, building secure APIs and scalable server-side applications. Passionate about clean code, problem-solving, and continuous learning.<br><br>
+### Tech Stack<br><br>- **Backend:** Node.js, Express.js, RESTful APIs, Socket.io.<br>- **Databases:**  MongoDB (Mongoose ODM), SQL (Sequelize ORM).<br>- **Frontend Basics:** HTML, CSS, Bootstrap, JavaScript.<br>- **Tools:** Git, Postman.<br><br>
+### Let's Connect<br><br>- LinkedIn: [Saif Eldeen Sobhy](https://linkedin.com/in/saif-eldeen-sobhy)<br>- Email: saifeldeen409@gmail.com
 
 
 ## 🌐 Socials:
